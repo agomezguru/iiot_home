@@ -1,0 +1,6 @@
+[submodule "themes/iiot-twt"]
+	path = themes/iiot-twt
+	url = git@github.com:agomezguru/iiot-twt.git
+[submodule "themes/iiot_twt"]
+	path = themes/iiot_twt
+	url = git@github.com:agomezguru/iiot-twt.git

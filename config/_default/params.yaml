@@ -1,0 +1,62 @@
+
+# Título del sitio. Usado en la etiqueta <title> del navegador y por variables.
+title: "COATI Tech | Soluciones de Monitoreo IIoT"
+
+benefits: "Principales beneficios de un vistazo"
+
+callout: El costo de la incertidumbre
+calloutTitle: Sus máquinas le hablan ¿Está escuchando?
+calloutContent: >
+  Las paradas inesperadas, el consumo excesivo de energía y el mantenimiento
+  reactivo no son solo inconvenientes; son síntomas de una desconexión crítica
+  con sus activos. Cada alerta ignorada es una pérdida tangible de
+  productividad y rentabilidad.
+
+nextLevelQuestion: ¿Listo para llevar su proyecto IIoT al siguiente nivel?
+nextLevelAnswer: Transformamos los datos de sus máquinas en rentabilidad. Nuestros expertos estarán encantados de ayudarle a encontrar la implementación perfecta para su planta industrial.
+callToAction: Agendar
+footerButton: Más información
+footerMessage: "Del sensor a la nube: con nuestra plataforma IIoT, puedes obtener información valiosa de tus máquinas e implementar mantenimiento predictivo."
+
+cards:
+  - title: Costosas paradas no planificadas
+    content: >
+      Cada minuto que una línea de producción está detenida se traduce en
+      pérdidas de ingresos, retrasos en las entregas y daño a su reputación.
+    icon: "M10.5 6h9.75M10.5 6a1.5 1.5 0 11-3 0m3 0a1.5 1.5 0 10-3 0M3.75
+      6H7.5m3 12h9.75m-9.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-3.75
+      0H7.5m9-6h3.75m-3.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-9.75 0h9.75"
+
+  - title: Costos operativos fuera de control
+    content: >
+      El consumo energético excesivo y las reparaciones de emergencia consumen
+      su presupuesto, impidiendo la inversión en mejoras estratégicas.
+    icon: "M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z"
+
+  - title: Ciclo de mantenimiento reactivo
+    content: >
+      Su equipo de mantenimiento vive "apagando incendios", corriendo de una
+      emergencia a otra sin tiempo para realizar tareas preventivas reales.
+    icon: "M21 7.5l-9-5.25L3 7.5m18 0l-9 5.25m9-5.25v9l-9 5.25M3 7.5l9 5.25M3
+      7.5v9l9 5.25m0-9v9"
+
+  - title: Decisiones basadas en intuición
+    content: >
+      Sin datos fiables, es imposible saber la verdadera condición de sus
+      activos, justificar inversiones o planificar la producción con certeza.
+    icon: "M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z"
+
+  - title: Diseño modular
+    content: >
+      Paga sólo por lo que necesitas gracias al modelo de licencia adaptado a
+      tus necesidades.
+    icon: "M21 7.5l-9-5.25L3 7.5m18 0l-9 5.25m9-5.25v9l-9 5.25M3 7.5l9 5.25M3
+      7.5v9l9 5.25m0-9v9"
+
+  - title: Fácil de usar
+    content: >
+      Paneles de control personalizados, visualizaciones claras y guía de
+      usuario intuitiva.
+    icon: "M10.5 6h9.75M10.5 6a1.5 1.5 0 11-3 0m3 0a1.5 1.5 0 10-3 0M3.75
+      6H7.5m3 12h9.75m-9.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-3.75
+      0H7.5m9-6h3.75m-3.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-9.75 0h9.75"

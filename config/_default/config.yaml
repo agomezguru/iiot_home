@@ -1,0 +1,23 @@
+baseURL: https://example.org/
+languageCode: es
+title: COATI IIoT
+theme: "iiot_twt"
+googleAnalytics: "UA-123-45"
+
+menu:
+  main:
+    - name: Inicio
+      pageRef: /
+      weight: 10
+    - name: El problema
+      pageRef: '/'
+      weight: 20
+    - name: La solución
+      pageRef: '/'
+      weight: 30
+    - name: Aplicaciones
+      pageRef: '/'
+      weight: 40
+    - name: ¿Por qué Nosotros?
+      pageRef: '/'
+      weight: 40
