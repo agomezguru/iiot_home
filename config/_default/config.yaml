@@ -1,7 +1,7 @@
 baseURL: https://example.org/
 languageCode: es
 title: COATI IIoT
-theme: "iiot_twt"
+theme: "iiot-twt"
 googleAnalytics: "UA-123-45"
 
 menu:
