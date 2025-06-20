@@ -1,2 +1,6 @@
 baseURL: https://iiot.coati.com.mx
 googleAnalytics: ""
+
+caches:
+  images:
+    dir: :cacheDir/images
