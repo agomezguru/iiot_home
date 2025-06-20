@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on COATI IIoT</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on COATI IIoT</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 12 Jun 2025 16:40:42 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_first_post</title>
+      <link>http://localhost:1313/post/my_first_post/</link>
+      <pubDate>Thu, 12 Jun 2025 16:40:42 -0600</pubDate>
+      <guid>http://localhost:1313/post/my_first_post/</guid>
+      <description>&lt;h1 id=&#34;h1-level-title&#34;&gt;H1 level title&lt;/h1&gt;&#xA;&lt;p&gt;This is a paragraph.&lt;/p&gt;&#xA;&lt;p&gt;This another paragraph with &lt;em&gt;emphasis&lt;/em&gt; and &lt;strong&gt;strong emphasis&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;h2-level-title&#34;&gt;H2 level title&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-level-title&#34;&gt;H3 level title&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.google.com/&#34;&gt;This is a hyperlink&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I like lists because they are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;fun&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;easy, and&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;fast.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Lists can also be ordered:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First element&lt;/li&gt;&#xA;&lt;li&gt;Second element&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;with an unordered sublist&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And you can add tables:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Column 1&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Column 2&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Column 3&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;I&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;like&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;tables&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;This&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;is&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;content&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
